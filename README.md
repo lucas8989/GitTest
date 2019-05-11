@@ -1,1 +1,2 @@
 # GitTest
+dzis jest sobota
